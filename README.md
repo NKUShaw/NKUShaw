@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=FvnT29sAAAAJ&hl=zh-CN)
 <br>
 
-![Yang Xiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=linnabrown&show_icons=true&theme=radical)
+![Yang Xiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=NKUShaw&show_icons=true&theme=radical)
 
 
 
