@@ -9,7 +9,7 @@
 
 - 🔭 I am currently a Ph.D. student of Computer Science, at University of Tulsa. 
 
-- 🌱 My research interests span the fields of **Trustworthy AI**. 
+- 🌱 My research interests span the fields of **Trustworthy and Efficient ML**. 
 
 
 <!--
